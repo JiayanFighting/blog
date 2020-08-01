@@ -1,0 +1,33 @@
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+D:\IntelliJ IDEA 2019.3.2\Statusly\Statusly\src\main\resources\application.yml
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+src/main/resources/application.properties
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+src/main/resources/templates/success.html
+### VS Code ###
+.vscode/
+/.vs
+!/src/main/resources/application.yml
+.DS_Store
+src/main/resources/application.yml

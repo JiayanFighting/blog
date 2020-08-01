@@ -1,0 +1,22 @@
+.login-btn {
+    float: right;
+    margin-top: 10vh;
+    margin-right: 10vw;
+}
+
+.backgroundImg::before {
+    background: url("./background.png") no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;/*-1 可以当背景*/
+}
+
+.backgroundImg {
+    background: rgba(1, 1, 1, 0.6);
+
+}
